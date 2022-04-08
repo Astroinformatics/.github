@@ -1,13 +1,6 @@
 # [Astroinformatics Summer School 2022](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 
 -----
-## Draft Lab Tutorials under Development
-- [Gradient Descent Lab](https://github.com/Astroinformatics/gradient-descent-dev)
-- [Linear Regression Lab](https://github.com/Astroinformatics/linear_regression_dev)
-- [SQL Lab]()
-- [Dimesional Reduction](https://github.com/Astroinformatics/dimensionality_reduction_dev)
-
------
 # Summer School Overview
 ## Monday
 ### Fundamentals for Machine Learning & Big Data
