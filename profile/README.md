@@ -5,11 +5,16 @@
 ## Monday
 ### Fundamentals for Machine Learning & Big Data
 - Regression
+  - Intro Gradient Descent
+  - Intro Linear Regression
 - Classificaiton
+  - Intro Logistic Regression
+  - Intro Suppert Vector Machines
+  - Application: High-z Quasars
 
 ### Data Mining
-- Introduction to Databases
-- Introduction to SQL
+- Intro to Databases & SQL
+- SQL Lab
 
 -----
 
@@ -17,25 +22,35 @@
 ### Machine Learning in Practice
 - Evaluating ML Performance & Regularization
 - Dimensional Reduction
+  - Intro to PCA
+  - Kernels for PCA & SVMs
+  - Application: Galaxy classification
 
 -----
 
 ## Wednesday
 ### Bayesian Computing
+    - Integration
+    - Intro to Probabilistic Programming Languages
 ### Heirarchical Modeling
-### Variational Inference
+    - Application:  Galaxy Evolution
+### Neural Networks
+    - Intro to Neural Networks
+    - Application: Galaxy classification
 
 -----
 
 ## Thursday
-### Neural Networks
-### High-Performance Computing
+### Variational Inference
+    - Application: Image classificaiton
+### Scientific Machine Learning
 
 -----
 
 ## Friday
-### Scientific Machine Learning
+### High-Performance Computing
 ### Putting it all together
+### Panel Discussion on ML in Astronomy
 
 -----
 
