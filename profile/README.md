@@ -30,19 +30,19 @@
 
 ## Wednesday
 ### Bayesian Computing
-    - Integration
-    - Intro to Probabilistic Programming Languages
+- Integration
+- Intro to Probabilistic Programming Languages
 ### Heirarchical Modeling
-    - Application:  Galaxy Evolution
+- Application:  Galaxy Evolution
 ### Neural Networks
-    - Intro to Neural Networks
-    - Application: Galaxy classification
+- Intro to Neural Networks
+- Application: Galaxy classification
 
 -----
 
 ## Thursday
 ### Variational Inference
-    - Application: Image classificaiton
+- Application: Image classificaiton
 ### Scientific Machine Learning
 
 -----
